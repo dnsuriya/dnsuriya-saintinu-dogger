@@ -1,0 +1,16 @@
+{
+"companyName": "PolygonsClub",
+"productName": "DOGGER",
+"productVersion": "1.2",
+"dataUrl": "Dogger.data.unityweb",
+"wasmCodeUrl": "Dogger.wasm.code.unityweb",
+"wasmFrameworkUrl": "Dogger.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#89C7FC",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.28f1"
+}

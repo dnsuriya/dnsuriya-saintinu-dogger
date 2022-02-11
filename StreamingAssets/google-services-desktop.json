@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "478954853035",
+    "firebase_url": "https://doggo-91516-default-rtdb.firebaseio.com",
+    "project_id": "doggo-91516",
+    "storage_bucket": "doggo-91516.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478954853035:android:48c5d1b1a0f222d5fbddee",
+        "android_client_info": {
+          "package_name": "com.PolygonsClub.DOGGER"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "478954853035-ppnec9d18ggchl1m95qu8fec9444kekv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7-wKfj-hs69RgQ0Je10ARMnZT5EylsN0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "478954853035-ppnec9d18ggchl1m95qu8fec9444kekv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "478954853035-6ighgk32r8jfrd4iq0rhohd5ib8qme5p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.PolygonsClub.DOGGER"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
